@@ -19,4 +19,6 @@
 - Security
 
 ## < EXTRA RESOURCES >
+- [Laravel roadmap](https://github.com/Eyadhamza/LaravelRoadmap)
+- [backend roadmap](https://github.com/Eyadhamza/Backend-Roadmap-2023)
 - [Docker crash course](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
