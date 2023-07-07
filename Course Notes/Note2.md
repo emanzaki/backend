@@ -21,7 +21,7 @@ diff between '' and "" is
 "" -->> can be used 
 - use {} for a better readability
 - to access a specific letter use 0,1,2  
-from the begging and -1,-2,-3 from the back
+from the beginning and -1,-2,-3 from the back
 - it keeps your white spaces but not when you print it 
 ```php
 <?php
