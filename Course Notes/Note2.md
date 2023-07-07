@@ -9,6 +9,11 @@ $y=1-0.77;
 echo (bool)($x==$y); //print empty string meaning false
 ```
 because it depends on how float numbers stored in binary in the memory.
+- NAN = log(-1)
+- INF "out of range"
+- is_infinite() or is_finite()
+- is_nan()
+
 -----------------------------------
 ### strings 
 diff between '' and "" is
