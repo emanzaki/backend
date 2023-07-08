@@ -40,7 +40,7 @@ TEXT;
 ```
 #### Nowdoc
 ```php
-$text=<<<TEXT
+$text=<<<'TEXT'
 dkmvksmd
 s;ldmvl;md
 ldmal;f
