@@ -2,8 +2,11 @@
 `20/7/2023 -->> 20/9/2023 "8 weeks"`
 <details>
 <summary>Week One</summary>
-  | 20/7/2023 -->> 27/7/2023
-  | meeting 27/7/2023
+  |20/7/2023 -->> 27/7/2023
+  |meeting 27/7/2023
+  - [x] #739
+  - [ ] https://github.com/octo-org/octo-repo/issues/740
+  - [ ] Add delight to the experience when all tasks are complete :tada:
 
 ###
 - Database
