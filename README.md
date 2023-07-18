@@ -1,12 +1,11 @@
 # Backend Roadmap
 `20/7/2023 -->> 20/9/2023 "8 weeks"`
-[x] <details>
+<details>
 <summary>Week One</summary>
   - 20/7/2023 -->> 27/7/2023
   - meeting 27/7/2023
   -  #739
-  - [ ] https://github.com/octo-org/octo-repo/issues/740
-  - [ ] Add delight to the experience when all tasks are complete :tada:
+
 
 ###
 - Database
@@ -42,7 +41,9 @@
 <summary>Week Eight</summary>
 </details>
 
-
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Language and framework
 - [PHP course 1](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-)
