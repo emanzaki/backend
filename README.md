@@ -138,12 +138,14 @@
 
   - Intro to Cloud ++
   - NoSQL databases
-  - 
   - [Docker crash course](https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7)
+  - 
 </details>
 
 <details>
 <summary>Week Eight</summary>
+
+  
   - Complete what you have missed 
   - Books
   - Projects with Front-end team
