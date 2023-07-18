@@ -131,6 +131,7 @@
 | Design Patterns in PHP                            | N/A    | https://designpatternsphp.readthedocs.io/en/latest/README.html |
 | SOLID principles                                  | N/A    | https://www.cleancode.studio/series/solid-principles |
 | The No-Framework Tutorial                         | N/A    | https://github.com/PatrickLouys/no-framework-tutorial |
+
 </details>
 
 <details>
@@ -151,14 +152,6 @@
   - Projects with Front-end team
   
 </details>
-
-| Resource Name                                     | Resource                     |
-|---------------------------------------------------|------------------------------|
-| Design Patterns in Plain English                  |  https://youtu.be/NU_1StN5Tkk |
-| 5 Design Patterns Every Engineer Should Know      | https://youtu.be/FLmBqI3IKMAo |
-| Design Patterns in PHP                            | https://designpatternsphp.readthedocs.io/en/latest/README.html |
-| SOLID principles                                  | https://www.cleancode.studio/series/solid-principles |
-| The No-Framework Tutorial                         | https://github.com/PatrickLouys/no-framework-tutorial |
 
 ### Check-list
 - [ ] How Internet & Websites works
