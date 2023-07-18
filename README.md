@@ -150,6 +150,14 @@
   
 </details>
 
+| Resource Name                                     | Resource                     |
+|---------------------------------------------------|------------------------------|
+| Design Patterns in Plain English                  |  https://youtu.be/NU_1StN5Tkk |
+| 5 Design Patterns Every Engineer Should Know      | https://youtu.be/FLmBqI3IKMAo |
+| Design Patterns in PHP                            | https://designpatternsphp.readthedocs.io/en/latest/README.html |
+| SOLID principles                                  | https://www.cleancode.studio/series/solid-principles |
+| The No-Framework Tutorial                         | https://github.com/PatrickLouys/no-framework-tutorial |
+
 ### Check-list
 - [ ] How Internet & Websites works
 - [ ] Browser/Server request flow, HTTP Protocol, Status codes
@@ -197,3 +205,14 @@
 - [Laravel roadmap](https://github.com/Eyadhamza/LaravelRoadmap)
 - [backend roadmap](https://github.com/Eyadhamza/Backend-Roadmap-2023)
 - [Backend Developer](https://roadmap.sh/backend)
+
+| Meeting | Date |
+|---------|------|
+| Week 1 | 20/7/2023 |
+| Week 2 | 27/7/2023 |
+| Week 3 | 4/8/2023 |
+| Week 4 | 12/8/2023 |
+| Week 5 | 20/8/2023 |
+| Week 6 | 28/8/2023 |
+| Week 7 | 5/9/2023 |
+| Week 8 | 13/9/2023 |
