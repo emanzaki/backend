@@ -3,7 +3,7 @@
 <details>
 <summary>Week One</summary>
   
-  ## Database
+## Database
   
   - 20/7/2023 -->> 27/7/2023
 
@@ -22,8 +22,44 @@
 
 <details>
 <summary>Week Two</summary>
+  
+## PHP
+  
+- 28/7/2023 -->> 4/8/2023
+
+    - meeting 4/8/2023
+- PHP Basics
+- Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...
+  
+| Resource Name                                                         |Duration| Resource                                                                 |
+|-----------------------------------------------------------------------|--------|--------------------------------------------------------------------------|
+| PHP Tutorial for Absolute Beginners - PHP Course 2021                 | 5h 5m  | https://youtu.be/yXzWfZ4N4xU                                             |
+| Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced  | 9h 14m | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- |
+
 </details>
 
+How Internet & Websites works
+Browser/Server request flow, HTTP Protocol, Status codes
+Basics of HTML/CSS
+Basics of Javascript
+Introduction to Databases
+Version Control System (Git & Github)
+Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...
+Understanding Composer
+PHP beginner projects
+Object Oriented PHP
+Build Projects
+Build custom MVC Framework
+What is API
+Learn Existing Framework
+Learn JavaScript
+Basics of JavaScript Frameworks
+Build Projects with existing frameworks
+Get Familiar with Terminal
+Editors/IDEs
+Docker
+Design Patterns
+      
 <details>
 <summary>Week Three</summary>
 </details>
