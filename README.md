@@ -1,11 +1,16 @@
 # Backend Roadmap
 `20/7/2023 -->> 20/9/2023 "8 weeks"`
 <details>
-<summary>Week One </summary>
-  ### Database
+<summary>Week One</summary>
+  
+  ## Database
+  
   - 20/7/2023 -->> 27/7/2023
+
     - meeting 27/7/2023
+      
   - Introduction to DB (DB, DBMS, SQL, ... etc)
+    
   - SQL Queries
   
   - [Labs](https://drive.google.com/drive/folders/1VIO8qJQCXFKyPjjfljmfXmb28o8lXSjx?usp=drive_link)
