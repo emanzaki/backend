@@ -1,16 +1,18 @@
 # Backend Roadmap
 `20/7/2023 -->> 20/9/2023 "8 weeks"`
 <details>
-<summary>Week One</summary>
+<summary>Week One </summary>
+  ### Database
   - 20/7/2023 -->> 27/7/2023
-  - meeting 27/7/2023
-  -  #739
-
-
-###
-- Database
-
+    - meeting 27/7/2023
+  - Introduction to DB (DB, DBMS, SQL, ... etc)
+  - SQL Queries
   
+  - [Labs](https://drive.google.com/drive/folders/1VIO8qJQCXFKyPjjfljmfXmb28o8lXSjx?usp=drive_link)
+  - [SQL Server tutorial](https://www.youtube.com/playlist?list=PL4cyC4G0M1RQ_Rm52cQ4CcOJ_T_HXeMB4) [x]
+  - [Crash Course MySQL](https://www.youtube.com/watch?v=9ylj9NR0Lcg)
+  - [MySQL Tutorial for Beginners "Full Course"](https://www.youtube.com/watch?v=7S_tz1z_5bA)
+  - for extra resources
 </details>
 
 <details>
