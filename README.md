@@ -200,6 +200,7 @@
 - [Laravel roadmap](https://github.com/Eyadhamza/LaravelRoadmap)
 - [backend roadmap](https://github.com/Eyadhamza/Backend-Roadmap-2023)
 - [Backend Developer](https://roadmap.sh/backend)
+- [PHP For Beginners "Laracasts"](https://laracasts.com/series/php-for-beginners-2023-edition)
 
 | Meeting | Date |
 |---------|------|
