@@ -27,7 +27,7 @@
     - meeting 27/7/2023
       
   - Introduction to DB (DB, DBMS, SQL, ... etc)
-    
+  - [DataBase Design](https://www.youtube.com/playlist?list=PLZDOU071E4v6epq3GS0IqZicZc3xwwBN_)
   - SQL Queries
   
   - [Labs](https://drive.google.com/drive/folders/1VIO8qJQCXFKyPjjfljmfXmb28o8lXSjx?usp=drive_link)
