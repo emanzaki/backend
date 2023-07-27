@@ -154,12 +154,12 @@
 </details>
 
 ### Check-list
-- [ ] How Internet & Websites works
+- [x] How Internet & Websites works
 - [ ] Browser/Server request flow, HTTP Protocol, Status codes
-- [ ] Basics of HTML/CSS
-- [ ] Basics of Javascript
-- [ ] Introduction to Databases
-- [ ] Version Control System (Git & Github)
+- [x] Basics of HTML/CSS
+- [x] Basics of Javascript
+- [x] Introduction to Databases
+- [x] Version Control System (Git & Github)
 - [ ] Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL, etc...
 - [ ] Understanding Composer
 - [ ] PHP beginner projects
